@@ -11,7 +11,7 @@ Le site comprend :
 - Un **formulaire de contact**
 - Une **page de connexion** indépendante (`login/`)
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **HTML5** — structure des pages
 - **CSS3** — mise en forme et design
@@ -40,7 +40,7 @@ portfolio/
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/sawadogopulcherie544-art/portfolio.git
+   git clone https://github.com/sawadogopulcherie544-art/Portfolio.git
    ```
 2. Ouvrez `index.html` dans votre navigateur, ou publiez le site avec **GitHub Pages** :
    - Allez dans **Settings > Pages**
